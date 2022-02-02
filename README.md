@@ -1,4 +1,5 @@
 # Document-Abstracted-Identifier-Project
+This project is inspired by this expiremental paper https://arxiv.org/abs/1710.06071
 
 The PubMed 200k RCT dataset is described in Franck Dernoncourt, Ji Young Lee. PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts. International Joint Conference on Natural Language Processing (IJCNLP). 2017.
 
